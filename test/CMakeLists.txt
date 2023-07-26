@@ -77,4 +77,4 @@ else()
     process_sparring_partner_launch(posix_specific)
 endif()
 
-add_subdirectory(v2)
+#add_subdirectory(v2)
